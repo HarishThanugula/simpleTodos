@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item-card {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  width: 50vw;
+  justify-content: space-between;
+}
+.delete-btn {
+  border: solid 1px #ff0b37;
+  outline: none;
+  cursor: pointer;
+  width: 85px;
+  height: 25px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
